@@ -1,3 +1,3 @@
 # exam-repo
 *broken*
-*tired*
+*ki*
