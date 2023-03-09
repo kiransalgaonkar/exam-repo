@@ -1,3 +1,3 @@
 # exam-repo
-*kian*
-*haaaahaaa*
+*broken*
+*tired*
